@@ -43,6 +43,7 @@ int main() {
 	obj["double"] = 1.23;
 	obj["str"] = "hello,world!";
 	obj["zarr"] = arr;
+	obj["test12321"];
 	cout << obj.str() << endl;
 
 	cout << "=====================遍历数组内容=======================" << endl;
